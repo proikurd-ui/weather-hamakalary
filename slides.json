@@ -1,14 +1,12 @@
 [
   {
-    "text": "بەخێربێن بۆ ئەپەکەی ئێمە",
-    "color": "#FF2A7DFE"
+    "text": "بۆ بینینی نوێترین هەواڵەکان 1",
+    "color": "#FF2A7DFE",
+    "link": "https://t.me/diarydroid"
   },
   {
-    "text": "ڕێکڵامی تۆ لێرە دەردەکەوێت",
-    "color": "#FF9800"
-  },
-  {
-    "text": "بۆ زانیاری زیاتر پەیوەندی بکەن",
-    "color": "#E91E63"
+    "text": "سەردانی پەیجی فەیسبووکمان بکە2",
+    "color": "#FF9800",
+    "link": "https://facebook.com/kashw.hawa.kurdd"
   }
 ]
