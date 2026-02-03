@@ -1,22 +1,12 @@
 [
   {
-    "title": "لێرە فێرە ئەفوبێی کوردی بە",
-    "desc": "This App fully Data 5-day forecast shows",
-    "url": ""
-  },
+  "id": "101", 
+  "title": "بارانی بەخوڕ",
+  "description": "پێشبینی دەکرێت سبەی بارانێکی زۆر ببارێت."
+},
   {
-    "title": "New Data From Weather app",
-    "desc": "This App fully Data 5-day forecast shows",
-    "url": ""
-  },
-  {
-    "title": "هەواڵی هەفتەی داهاتوو",
-    "desc": "هەشوهەوا جیگر دەبێت واتە زۆرسارد نیە پلەی گەرما لەنێوان 15 پلە بۆ 20 پلە دەبێت",
-    "url": "https://facebook.com/kashw.hawa.kurdd"
-  },
-  {
-    "title": "Developer This app",
-    "desc": "my name is diary droid i am developer this project and created with aide studio pro by GOXOME but i am not a own this app",
-    "url": "https://facebook.com/diarydroid"
-  }
+  "id": "102", 
+  "title": "بارانی بەخوڕ",
+  "description": "پێشبینی دەکرێت سبەی بارانێکی زۆر ببارێت."
+}
 ]
