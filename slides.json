@@ -1,12 +1,14 @@
 [
   {
-    "text": "ئەپڵیکەیشن دروست دەکەین بەنرخێکی زۆر گونجاو",
+    "text": "کەشوهەوای ئەمڕۆ زۆر خۆشە",
     "color": "#FF2A7DFE",
-    "link": "https://t.me/diyare_arsalan"
+    "link": "https://google.com",
+    "image": "https://yourdomain.com/image1.jpg"
   },
   {
-    "text": "ئایا دەتەوێ کاڵاکانت بناسێنیت لای ئێمە ڕێکڵام بکە",
-    "color": "#FF5814CA",
-    "link": "https://facebook.com/kashw.hawa.kurdd"
+    "text": "ئاگاداری شەپۆلێکی باران بن",
+    "color": "#000000",
+    "link": "https://weather.com",
+    "image": "https://yourdomain.com/image2.jpg"
   }
 ]
