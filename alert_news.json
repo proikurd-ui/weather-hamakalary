@@ -1,0 +1,22 @@
+{
+  "alerts": [
+    {
+      "city": "Sulaymaniyah",
+      "type": "Tornado",
+      "message": "ئاگاداری: گەردەلوولێکی بەهێز لە سلێمانییە، تکایە ئاگاداربە.",
+      "active": true
+    },
+    {
+      "city": "Erbil",
+      "type": "Thunderstorm",
+      "message": "ئاگاداری بۆ هەولێر: هەورە بروسکە و بارانی بەخوڕ دەست پێدەکات.",
+      "active": true
+    },
+    {
+      "city": "Duhok",
+      "type": "Heavy Rain",
+      "message": "ئاگاداری بۆ دهۆک: ئەگەری لافاو هەیە لە ناوچە نزمەکان.",
+      "active": false
+    }
+  ]
+}
