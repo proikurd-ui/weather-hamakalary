@@ -1,0 +1,26 @@
+[
+  {
+    "title": "New Tech Released",
+    "date": "2026-02-14",
+    "time": "10:30 AM",
+    "image_url": "https://example.com/image1.jpg"
+  },
+  {
+    "title": "Global Weather Update",
+    "date": "2026-02-14",
+    "time": "12:45 PM",
+    "image_url": "https://example.com/image2.jpg"
+  },
+  {
+    "title": "New Tech Released",
+    "date": "2026-02-14",
+    "time": "10:30 AM",
+    "image_url": "https://example.com/image1.jpg"
+  },
+  {
+    "title": "Global Weather Update",
+    "date": "2026-02-14",
+    "time": "12:45 PM",
+    "image_url": "https://example.com/image2.jpg"
+  }
+]
