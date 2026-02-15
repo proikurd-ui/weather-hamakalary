@@ -1,10 +1,10 @@
 [
   {
-    "title": "Kurdish Weather App Update",
+    "title": "محمد کەمال کەلاری",
     "date": "2026-02-14",
-    "time": "05:30 PM",
-    "image_url": "https://plus.unsplash.com/premium_photo-1666672388644-2d99f3feb9f1?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8M",
-    "description": "This is a long description explaining all the new features added to the app. You can write multiple sentences here, and the app will display them in the detail section."
+    "time": "02:30 PM",
+    "image_url": "https://images.ntviraq.com/wene/11220221032800_473489Image1.jpg",
+    "description": "هەواڵێکی زۆر گرنگ باسی هەڵەکەتان بۆ دەکەم لێرە."
   },
 {
     "title": "Kurdish Weather App Update",
@@ -14,24 +14,11 @@
     "description": "This is a long description explaining all the new features added to the app. You can write multiple sentences here, and the app will display them in the detail section."
   },
 {
-    "title": "Kurdish Weather App Update",
-    "date": "2026-02-14",
+    "title": "ئەمڕۆ کەشوهەوا جیگیرە",
+    "date": "2029-02-15",
     "time": "05:30 PM",
     "image_url": "https://plus.unsplash.com/premium_photo-1666672388644-2d99f3feb9f1?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8M",
-    "description": "This is a long description explaining all the new features added to the app. You can write multiple sentences here, and the app will display them in the detail section."
-  },
-{
-    "title": "Kurdish Weather App Update",
-    "date": "2026-02-14",
-    "time": "05:30 PM",
-    "image_url": "https://plus.unsplash.com/premium_photo-1666672388644-2d99f3feb9f1?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8M",
-    "description": "This is a long description explaining all the new features added to the app. You can write multiple sentences here, and the app will display them in the detail section."
-  },
-{
-    "title": "Kurdish Weather App Update",
-    "date": "2026-02-14",
-    "time": "05:30 PM",
-    "image_url": "https://plus.unsplash.com/premium_photo-1666672388644-2d99f3feb9f1?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8M",
-    "description": "This is a long description explaining all the new features added to the app. You can write multiple sentences here, and the app will display them in the detail section."
+    "description": "This is a long descrion."
   }
+
 ]
