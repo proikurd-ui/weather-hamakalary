@@ -7,7 +7,7 @@
     "description": "هەواڵێکی زۆر گرنگ باسی هەڵەکەتان بۆ دەکەم لێرە."
   },
 {
-    "title": "Kurdish Weather App Update",
+    "title": "",
     "date": "2026-02-14",
     "time": "05:30 PM",
     "image_url": "https://plus.unsplash.com/premium_photo-1666672388644-2d99f3feb9f1?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8M",
@@ -19,6 +19,14 @@
     "time": "05:30 PM",
     "image_url": "https://plus.unsplash.com/premium_photo-1666672388644-2d99f3feb9f1?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8M",
     "description": "This is a long descrion."
+     },
+  {
+    "title": "ئەمڕۆ کەشوهەوا جیگیرە",
+    "date": "2029-02-15",
+    "time": "05:30 PM",
+    "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJh1KOItKV_tkUmv40hfA0ICgjb824TiI2YiRTGE1ktHwokoGxciHtg3_bZ7yqcx3_QcZXzD4RXczGqYZXr61qT-atidI0pGtpSSd7X0lKbstYjsloS0Kq8vN1wJNC5YWAE-mJQ4cS6QwcFaAaVmYj2Bfe22TewL1S6J0QfRIULSlnm_ehzi4aNLkq79kq/s1311/1000685776.png",
+    "description": "This is a long descrion."
   }
+  
 
 ]
