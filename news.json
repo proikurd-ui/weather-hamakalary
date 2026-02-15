@@ -1,18 +1,12 @@
 [
   {
-    "title": "حزجیۆیۆسججسسچ",
+    "title": "کەشوهەوا لەبارە بۆ سەفرە و سیاحەت",
     "date": "2026-02-14",
     "time": "02:30 PM",
-    "image_url": "https://images.ntviraq.com/wene/11220221032800_473489Image1.jpg",
+    "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjllb9YFxUJBgwm0vsYCjj7yvswRlZAKBJYv6yTqI1na3nQQe3qFgGY7JkvT7xDHi68I6AJNuKuPmgJ7ISrxrE0lnPl96x9_vADGmRDiu3Wmg03_URdvxYOVxuwPryQlF685WvBOOYf_RqOin2IFLA2TVkjYfhubGRntA84ISEcph5db1srob_OObltQKM/s4096/1000614827.jpg",
     "description": "هەواڵێکی زۆر گرنگ باسی هەڵەکەتان بۆ دەکەم لێرە."
   },
-{
-    "title": "",
-    "date": "2026-02-14",
-    "time": "05:30 PM",
-    "image_url": "https://plus.unsplash.com/premium_photo-1666672388644-2d99f3feb9f1?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8M",
-    "description": "This is a long description explaining all the new features added to the app. You can write multiple sentences here, and the app will display them in the detail section."
-  },
+
 {
     "title": "ئەمڕۆ کەشوهەوا جیگیرە",
     "date": "2029-02-15",
@@ -24,9 +18,15 @@
     "title": "ئەمڕۆ کەشوهەوا جیگیرە",
     "date": "2029-02-15",
     "time": "05:30 PM",
-    "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJh1KOItKV_tkUmv40hfA0ICgjb824TiI2YiRTGE1ktHwokoGxciHtg3_bZ7yqcx3_QcZXzD4RXczGqYZXr61qT-atidI0pGtpSSd7X0lKbstYjsloS0Kq8vN1wJNC5YWAE-mJQ4cS6QwcFaAaVmYj2Bfe22TewL1S6J0QfRIULSlnm_ehzi4aNLkq79kq/s1311/1000685776.png",
+    "image_url": "https://plus.unsplash.com/premium_photo-1666672388644-2d99f3feb9f1?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8M",
     "description": "This is a long descrion."
-  }
+     }
+  {
+    "title": "ئەمڕۆ کەشوهەوا جیگیرە",
+    "date": "2029-02-15",
+    "time": "05:30 PM",
+    "image_url": "https://plus.unsplash.com/premium_photo-1666672388644-2d99f3feb9f1?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8M",
+    "description": "This is a long descrion."
+     }
   
-
 ]
