@@ -1,12 +1,12 @@
 [
   {
     "title": "Example Title 1",
-    "image": "https://sunrisegraphics.org/wp-content/uploads/2024/10/%D8%AE%D9%84%D9%81%D9%8A%D8%A7%D8%AA-%D8%A8%D9%86%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85.webp",
+    "image": "https://example.com.image.jpg",
     "link": "https://youtube.com"
   },
   {
     "title": "Example Title 2",
-    "image": "https://www.content-plans.com/wp-content/uploads/2024/12/Request_advertising_banner_design_services_from_Plans_and_attract_your_customers.jpg",
+    "image": "https://example.com.image.jpg",
     "link": "https://facebook.com"
   }
 ]
